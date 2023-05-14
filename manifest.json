@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Wacky the Whale: Waste Warning!",
+  "version": "1.0",
+  "description": "Learn about the environment and different endangered species through an interactive pet!",
+  "icons": {
+    "48": "whalee.png",
+    "96": "whalee.png"
+  },
+  "action": {
+    "default_title": "Your Extension Title",
+    "default_popup": "index.html"
+  }
+}

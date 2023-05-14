@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Berkshire+Swash&family=Neucha&display=swap');
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 300px;
+    line-height: 1.5;
+    letter-spacing: 0.005em;
+    width: 400px;
+    background: #58a2c2; 
+    margin: 50px; 
+}
+.info {
+    height: 150px;
+    width: 400px;
+}
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    height: 25px;
+    margin-bottom: 25px;
+}
+#stats {
+    background: #adc9e4;
+    border: solid #adc9e4 15px;
+}
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    background: none;
+    border: none;
+    text-align: center;
+}
+button:hover{
+    color: #094985;
+}
+#animal-container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+#animate {
+    width: 200px;
+    height: 200px;
+    position: relative;
+
+}
+  
+img {
+    height: 100%;
+    width: 100%;
+    border: black;
+}
